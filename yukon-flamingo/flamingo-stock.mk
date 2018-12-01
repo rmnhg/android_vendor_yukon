@@ -334,7 +334,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/yukon-flamingo/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwvm.so \
     vendor/sony/yukon-flamingo/proprietary/vendor/lib/libWVStreamControlAPI_L3.so:system/vendor/lib/libWVStreamControlAPI_L3.so \
     vendor/sony/yukon-flamingo/proprietary/vendor/lib/libxml.so:system/vendor/lib/libxml.so \
-    vendor/sony/yukon-flamingo/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
     vendor/sony/yukon-flamingo/proprietary/vendor/lib/soundfx/libqcbassboost.so:system/vendor/lib/soundfx/libqcbassboost.so \
     vendor/sony/yukon-flamingo/proprietary/vendor/lib/soundfx/libqcreverb.so:system/vendor/lib/soundfx/libqcreverb.so \
     vendor/sony/yukon-flamingo/proprietary/vendor/lib/soundfx/libqcvirt.so:system/vendor/lib/soundfx/libqcvirt.so
