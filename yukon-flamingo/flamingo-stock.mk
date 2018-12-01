@@ -72,6 +72,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/yukon-flamingo/proprietary/lib/libril.so:system/lib/libril.so \
     vendor/sony/yukon-flamingo/proprietary/lib/librilutils.so:system/lib/librilutils.so \
     vendor/sony/yukon-flamingo/proprietary/lib/libscdclient.so:system/lib/libscdclient.so \
+    vendor/sony/yukon-flamingo/proprietary/lib/libstlport.so:system/lib/libstlport.so \
     vendor/sony/yukon-flamingo/proprietary/lib/libsys-utils.so:system/lib/libsys-utils.so \
     vendor/sony/yukon-flamingo/proprietary/lib/libta.so:system/lib/libta.so \
     vendor/sony/yukon-flamingo/proprietary/lib/soundfx/libposteffectwrapper.so:system/lib/soundfx/libposteffectwrapper.so \
