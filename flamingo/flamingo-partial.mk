@@ -73,4 +73,35 @@ PRODUCT_PACKAGES += \
 	modem_b25 \
 	modem_b26 \
 	modem_b27 \
-	modem_mdt
+	modem_mdt \
+	3G_mba_b00 \
+	3G_mba_mdt \
+	3G_modem_b00 \
+	3G_modem_b01 \
+	3G_modem_b02 \
+	3G_modem_b03 \
+	3G_modem_b04 \
+	3G_modem_b05 \
+	3G_modem_b06 \
+	3G_modem_b07 \
+	3G_modem_b08 \
+	3G_modem_b09 \
+	3G_modem_b10 \
+	3G_modem_b11 \
+	3G_modem_b12 \
+	3G_modem_b13 \
+	3G_modem_b14 \
+	3G_modem_b15 \
+	3G_modem_b16 \
+	3G_modem_b17 \
+	3G_modem_b18 \
+	3G_modem_b19 \
+	3G_modem_b20 \
+	3G_modem_b21 \
+	3G_modem_b22 \
+	3G_modem_b23 \
+	3G_modem_b24 \
+	3G_modem_b25 \
+	3G_modem_b26 \
+	3G_modem_b27 \
+	3G_modem_mdt
