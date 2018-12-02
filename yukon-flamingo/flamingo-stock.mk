@@ -41,7 +41,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/yukon-flamingo/proprietary/bin/taimport:system/bin/taimport \
     vendor/sony/yukon-flamingo/proprietary/bin/time_daemon:system/bin/time_daemon \
     vendor/sony/yukon-flamingo/proprietary/bin/updatemiscta:system/bin/updatemiscta \
-    vendor/sony/yukon-flamingo/proprietary/lib/hw/camera.vendor.msm8226.so:system/lib/hw/camera.vendor.msm8226.so \
+    vendor/sony/yukon-flamingo/proprietary/lib/hw/camera.msm8226.so:system/lib/hw/camera.msm8226.so \
     vendor/sony/yukon-flamingo/proprietary/lib/hw/lights.vendor.msm8226.so:system/lib/hw/lights.vendor.msm8226.so \
     vendor/sony/yukon-flamingo/proprietary/lib/lib_asb_tee.so:system/lib/lib_asb_tee.so \
     vendor/sony/yukon-flamingo/proprietary/lib/libcamera_clientsemc.so:system/lib/libcamera_clientsemc.so \
